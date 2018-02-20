@@ -1,4 +1,4 @@
-<?
+<?php
 include 'teacher.php';
 include 'student.php';
 
